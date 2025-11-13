@@ -14,7 +14,7 @@ This project is production-ready and publicly deployed on **Streamlit Cloud**.
 
 ## 📂 GitHub Repository
 
-👉 **Repo Link:** *Add your GitHub repo link here*
+👉 **Repo Link:** *https://github.com/GarvitRastogi978/smart-resume-screener*
 
 ---
 
