@@ -1,0 +1,9 @@
+streamlit
+spacy
+scikit-learn
+pdfplumber
+python-docx
+pandas
+rapidfuzz
+matplotlib
+joblib

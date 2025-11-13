@@ -1,0 +1,29 @@
+The image displays two crucial settings for a resume screening or scoring application, likely a Streamlit app based on the surrounding context you've provided.
+
+Here is a breakdown of what each setting means and why it's necessary:
+
+---
+
+### 1. Combine weights (JD similarity vs Skill coverage)
+
+* **Value Set:** `0.60`
+* **What it Means:** This setting determines how the two main scoring components—**Job Description (JD) Similarity** and **Skill Coverage**—are balanced when calculating the final overall "Match Score."
+    * If the JD Similarity weight is set to **0.60**, the Skill Coverage weight is automatically set to **0.40** (since the weights must sum to 1.0).
+
+* **Why it's Set:** This allows the user (the recruiter or analyst) to **prioritize** which aspect of the resume match is more important for the specific role:
+    * **Higher JD Similarity weight (e.g., 0.80):** Prioritizes how well the *overall text* of the resume aligns with the *overall text* of the JD (often using vector embedding or NLP techniques). This is good for finding candidates who have the right tone, responsibilities, and experience descriptions, even if they use slightly different terminology for skills.
+    * **Higher Skill Coverage weight (e.g., 0.60):** Prioritizes candidates who explicitly mention a higher percentage of the **required skills** extracted from the JD. This is better for highly technical roles where specific tools and languages are non-negotiable.
+
+In this case, setting it to **0.60** means the **JD Similarity** is considered 60% of the final score, and **Skill Coverage** is 40%.
+
+---
+
+### 2. Minimum pass score (0..100)
+
+* **Value Set:** `50`
+* **What it Means:** This is a simple threshold applied to the final calculated overall match score (which is scaled to 0-100). Any resume that receives an overall match score **below 50** will fail to meet the minimum requirement.
+* **Why it's Set:** This acts as a filter to dramatically reduce the manual workload. It immediately separates candidates into two groups:
+    * **Pass/Review:** Scores 50 and above.
+    * **Fail/Reject:** Scores below 50.
+
+It is a quick way to screen out resumes that are clearly not a good fit based on the established weighting criteria.

@@ -1,0 +1,2 @@
+resume_filename,match_score_pct,jd_similarity_pct,skill_coverage_pct,matched_skills,required_skills,missing_skills
+GarvitRastogi_Resume.pdf,17.25,3.75,37.5,project management;java;pandas;scikit-learn;sql;python;communication;tensorflow;machine learning;git;numpy;excel,aws;docker;rest api;pandas;natural language processing;communication;python;nlp,aws;docker;natural language processing;nlp;rest api

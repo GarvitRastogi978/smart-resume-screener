@@ -1,0 +1,39 @@
+GARVIT RASTOGI
+Lucknow, Uttar Pradesh
+(cid:211) +91-7607443728  garvitrastogi834@gmail.com  Linkedin (cid:135) Github
+EDUCATION
+Vellore Institute of Technology 2021 – 2025
+B.Tech, Computer Science and Engineering In IoT,- CGPA: - 8.30/10 Vellore, Tamil Nadu
+PROJECTS
+Alzheimer’s Disease Diagnosis and Progression Level Tracking Using MRI Data  May 2025
+• Developed a machine learning pipeline to predict progressive Alzheimer’s stages (0–3) using MRI, clinical, and
+neuropsychiatric data.
+• Python, Google Colab, Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Pandas, NumPy,
+Matplotlib, and Seaborn.
+• Tuned neural network model achieved highest F1-score ( 0.74 test), outperforming baseline classifiers in
+detecting advanced AD stages.
+Weather App  Nov 2024
+• Developed a responsive weather application that fetches real-time weather data for any city using the
+OpenWeatherMap API.
+• Utilized HTML, CSS, and JavaScript to build the frontend interface and handle API interactions.
+• Implemented functionalities to display current temperature, humidity, wind speed, and weather conditions
+with intuitive visuals.
+Impact Of Climate Change on Incidence of Vector Borne Diseases  Sep 2024
+• “Impact of Climate Change on Incidence of Vector-Borne Diseases” focused on analyzing dengue patterns in
+India.
+• Python (Google Colab), Power BI, MS Excel, Matplotlib, Jupyter, OPTICS and DBSCAN clustering.
+• Found a positive correlation between rising temperatures and increasing dengue cases; OPTICS outperformed
+DBSCAN in clustering accuracy.
+EXPERIENCE
+Project Intern Aug 2023 – Nov 2023
+• Actively contributing to C-DAC’s cutting-edge IoT projects, specializing in Raspberry Pi AD/DA board
+integration.Designing and implementing innovative IoT solutions that leverage the power of Raspberry Pi
+AD/DA technology
+TECHNICAL SKILLS
+Languages and Tech: Python. SQL, HTML/CSS, Git, MySQL, API
+Tools: Google Colab, VS Code, Jupyter NoteBook, IntelliJ, MS Office, Arduino IDE, GitHub, Google Sheets
+CourseWork: DSA, Oops, Operating System, DBMS, Fog and Edge Computing
+Soft Skills: Quick learner, Communication, Teamwork, Adaptability, Leadership, Project Management,
+Analytical Thinking, Problem solving and Critical Thinking
+ACHIEVEMENTS
+• Followed “100 Days of Code” Python challenge and practiced on HackerRank

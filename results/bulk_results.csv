@@ -1,0 +1,4 @@
+filename,score_pct,jd_similarity_pct,skill_coverage_pct,matched_skills,required_skills,missing_skills
+resume other.pdf,33.69,6.15,75.0,nlp;keras;docker;pandas;excel;scikit-learn;sql;python;communication;tensorflow;node.js;machine learning;git;natural language processing;numpy;react,aws;docker;rest api;pandas;natural language processing;communication;python;nlp,aws;rest api
+resumeother.pdf,27.83,4.72,62.5,keras;rest api;java;sql;tensorflow;aws;node.js;machine learning;git;numpy;react;excel;nlp;pandas;scikit-learn;linux;python;deep learning,aws;docker;rest api;pandas;natural language processing;communication;python;nlp,communication;docker;natural language processing
+GarvitRastogi_Resume.pdf,17.25,3.75,37.5,project management;java;pandas;scikit-learn;sql;python;communication;tensorflow;machine learning;git;numpy;excel,aws;docker;rest api;pandas;natural language processing;communication;python;nlp,aws;docker;natural language processing;nlp;rest api

@@ -1,0 +1,24 @@
+python
+java
+c++
+machine learning
+deep learning
+nlp
+natural language processing
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+sql
+aws
+docker
+kubernetes
+react
+node.js
+excel
+communication
+project management
+rest api
+git
+linux
