@@ -1,24 +1,147 @@
-python
-java
-c++
-machine learning
-deep learning
-nlp
-natural language processing
-pandas
-numpy
-scikit-learn
-tensorflow
-keras
-sql
-aws
-docker
-kubernetes
-react
-node.js
-excel
-communication
-project management
-rest api
-git
-linux
+Problem Solving
+Data Structures
+Algorithms
+Time & Space Complexity
+OOP (Object Oriented Programming)
+Design Patterns
+Clean Code Principles
+Debugging
+Error Handling
+Code Optimization Techniques
+Recursion
+Dynamic Programming
+Bit Manipulation
+Python
+Java
+C++
+JavaScript
+TypeScript
+Go
+C
+SQL
+DBMS
+RDBMS
+MySQL
+PostgreSQL
+MongoDB
+Redis
+Database Normalization
+Joins, Triggers, Views
+Query Optimization
+ACID Properties
+Transactions
+REST APIs
+Django
+Flask
+Spring Boot
+Node.js
+Express.js
+Microservices Architecture
+Authentication & Authorization (JWT, OAuth)
+API Rate Limiting
+Caching Strategies
+Server-side Rendering
+Session Management
+Background Jobs / Queues
+Multi-threading
+HTML5
+CSS3
+JavaScript ES6
+React
+Vue.js
+Angular
+Redux
+Context API
+Responsive Web Design
+DOM Manipulation
+UI
+UX
+AWS
+Google Cloud Platform
+Azure
+Docker
+Kubernetes
+CI/CD Pipelines
+GitHub
+Jenkins
+Linux Commands
+Shell Scripting
+Terraform
+Git
+GitLab
+Version Control
+Agile Methodologies
+Scrum
+JIRA
+Postman
+VS Code
+Jupyter Notebook
+IntelliJ
+Unit Testing 
+JUnit
+pytest
+Integration Testing
+Test-Driven Development (TDD)
+API Testing
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+TensorFlow
+PyTorch
+Machine Learning fundamentals
+Data Cleaning
+EDA (Exploratory Data Analysis)
+Feature Engineering
+Model Evaluation
+NLP basics
+LLMs
+Generative AI
+Gen AI
+OWASP Top 10
+Secure Coding
+Input Validation
+SQL Injection Prevention
+HTTPS
+SSL
+TLS
+Hashing & Encryption Basics
+Access Control
+Low-Level Design (LLD)
+UML Diagrams
+Class Diagrams
+ER Diagrams
+API Design
+Load Balancing
+Horizontal vs Vertical Scaling
+CAP Theorem
+Caching Layers
+Message Queues
+Databases (SQL vs NoSQL choices)
+Communication Skills
+Critical Thinking
+Analytical Skills
+Team Collaboration
+Ownership & Responsibility
+Attention to Detail
+Problem Breakdown Ability
+Adaptability
+Time Management
+Leadership Basics
+Accountability
+Professional Email Writing
+Presentation Skills
+Learning Agility
+Emotional Intelligence (EQ)
+Working in Agile Teams
+Deadline Management
+Documentation Writing
+Giving & Receiving Feedback
+Sprint Planning
+Code Reviews
+Conflict Resolution
+Work Ethics
+Stress Management
+Negotiation Skills
+Stakeholder Communication
+Positive Attitude
